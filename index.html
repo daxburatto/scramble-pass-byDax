@@ -15,6 +15,25 @@
       <div class="card">
         <div class="card-header">
           <h2>Generate a Password</h2>
+          <p>
+            What would you like your password to include?
+          </p>
+          <p>
+            <label>Length</label>
+            <input type="number" maxlength="128" value="" id="length"/><br>
+            Uppercase
+            <label for="checkbox"></label>
+            <input type="checkbox" name="uppercase" id="upper"/>
+            Lowercase
+            <label for="checkbox"></label>
+            <input type="checkbox" name="lowercase" id="lower"/>
+            Numbers
+            <label for="checkbox"></label>
+            <input type="checkbox" name="numbers" id="numbers"/>
+            Special Characters
+            <label for="checkbox"></label>
+            <input type="checkbox" name="special" id="numbers"/>
+          </p>
         </div>
         <div class="card-body">
           <textarea
