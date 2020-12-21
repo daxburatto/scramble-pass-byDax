@@ -1,2 +1,6 @@
 # Welcome to scramble-pass-byDax
-Try out Scramble Pass today to get your new random password!
+I have attempted to make a random password generator... it did not work
+
+[scramble-pass](https://daxburatto.github.io/scramble-pass-byDax/)
+![screenshot of scramble pass](
+
