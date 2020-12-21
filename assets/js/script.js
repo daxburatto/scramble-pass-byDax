@@ -72,7 +72,6 @@ function writePassword() {
   var passwordText = document.querySelector('#password')
 
   passwordText.value = password
-  debugger
 }
 
 generateBtn.addEventListener = ('click', writePassword)
